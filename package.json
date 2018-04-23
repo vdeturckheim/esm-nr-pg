@@ -1,0 +1,16 @@
+{
+  "name": "esm-nr-sq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.0.24",
+    "newrelic": "^4.0.0",
+    "pg": "^7.4.1"
+  }
+}
